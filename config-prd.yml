@@ -1,0 +1,5 @@
+prd:
+  name: config_prd
+
+common:
+  name: config_prd_common
