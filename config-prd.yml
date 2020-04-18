@@ -1,5 +1,5 @@
-prd:
-  name: config_prd
-
-common:
-  name: config_prd_common
+server:
+  prd:
+    config: server_config-prd.yml
+  override:
+    name: server_config_prd

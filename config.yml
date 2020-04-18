@@ -1,0 +1,5 @@
+server:
+  config:
+    config: server_config.yml
+  override:
+    name: server_config

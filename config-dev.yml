@@ -1,5 +1,5 @@
-dev:
-  name: config_dev
-
-common:
-  name: config_dev_common
+server:
+  dev:
+    config: server_config-dev.yml
+  override:
+    name: server_config_dev

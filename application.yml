@@ -1,0 +1,5 @@
+server:
+  application:
+    config: server_application.yml
+  override:
+    name: server_application
